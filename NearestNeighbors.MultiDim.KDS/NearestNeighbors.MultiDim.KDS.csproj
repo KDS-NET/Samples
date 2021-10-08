@@ -7,8 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\dotnet5extensions\dotnet5extensions.csproj" />
-    <ProjectReference Include="..\KDS\KDS.csproj" />
+    <ProjectReference Include="..\KDS\dotnet5extensions\dotnet5extensions.csproj" />
+    <ProjectReference Include="..\KDS\KDS\KDS.csproj" />
   </ItemGroup>
 
 </Project>
