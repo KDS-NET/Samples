@@ -1,0 +1,3 @@
+[submodule "KDS"]
+	path = KDS
+	url = https://github.com/KDS-NET/KDS
